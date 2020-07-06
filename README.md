@@ -16,3 +16,11 @@ Algorithms and data structures using c++
 See additional resources:
 
 https://en.wikipedia.org/wiki/List_of_algorithms
+
+Based on the following two udemy courses:
+
+Learn C++ Programming -Beginner to Advance- Deep Dive in C++
+https://www.udemy.com/course/cpp-deep-dive/
+
+Mastering Data Structures & Algorithms using C and C++
+https://www.udemy.com/course/datastructurescncpp/
